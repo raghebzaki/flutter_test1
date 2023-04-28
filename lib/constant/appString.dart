@@ -1,9 +1,9 @@
 class AppString{
 
   static const deliveryAddress ="عنوان التوصيل";
-  static const address ="5 شارع التسعين، التجمع الخامس";
-  static const hiMagdy ="اهلا,مجدي";
-  static const latestProducts ="احدث المنتجات";
+  static const address = "شارع التسعين، التجمع الخامس 45";
+  static const hiMagdy ="أهلاً، مجدي";
+  static const latestProducts ="أحدث المنتجات";
   static const showAll ="عرض الكل";
   static const cardText ="هربل ايسنسز للشعر مكونة من شامبو لاستعادة لمعان";
   static const payPrescription ="صرف روشتة";
